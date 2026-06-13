@@ -1,0 +1,18 @@
+==========================================================
+ Batch run starting at Wed Jun 10 19:45:06 MST 2026
+ Variant: c4
+ Tasks (1):  10_streaming_music-streaming
+ Skip existing: false   Eval after: false
+ Forwarded args: --cli claude --model claude-fable-5
+ Summary log: _runs/_batch_logs/batch_20260610_194506_c4.summary.txt
+==========================================================
+
+----------------------------------------------------------
+ [19:45:06] Task: 10_streaming_music-streaming  (variant=c4)
+  ✓ done in 2842s  (run_dir: _runs/20260610_194506_10_streaming_music-streaming_c4)
+
+==========================================================
+ Batch finished at Wed Jun 10 20:32:28 MST 2026
+ Total time: 47m 22s
+ Results: 1 ok / 0 fail / 0 skipped
+==========================================================

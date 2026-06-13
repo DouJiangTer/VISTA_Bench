@@ -1,0 +1,18 @@
+==========================================================
+ Batch run starting at Wed Jun 10 15:38:03 MST 2026
+ Variant: c4
+ Tasks (1):  9_project-management
+ Skip existing: false   Eval after: false
+ Forwarded args: --cli claude --model claude-fable-5
+ Summary log: _runs/_batch_logs/batch_20260610_153803_c4.summary.txt
+==========================================================
+
+----------------------------------------------------------
+ [15:38:03] Task: 9_project-management  (variant=c4)
+  ✓ done in 1657s  (run_dir: _runs/20260610_153803_9_project-management_c4)
+
+==========================================================
+ Batch finished at Wed Jun 10 16:05:40 MST 2026
+ Total time: 27m 37s
+ Results: 1 ok / 0 fail / 0 skipped
+==========================================================

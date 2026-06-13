@@ -1,0 +1,18 @@
+==========================================================
+ Batch run starting at Wed Jun 10 01:22:17 MST 2026
+ Variant: c4
+ Tasks (1):  8_ecommerce
+ Skip existing: false   Eval after: false
+ Forwarded args: --cli claude --model claude-fable-5
+ Summary log: _runs/_batch_logs/batch_20260610_012217_c4.summary.txt
+==========================================================
+
+----------------------------------------------------------
+ [01:22:17] Task: 8_ecommerce  (variant=c4)
+  ✓ done in 2784s  (run_dir: _runs/20260610_012218_8_ecommerce_c4)
+
+==========================================================
+ Batch finished at Wed Jun 10 02:08:41 MST 2026
+ Total time: 46m 24s
+ Results: 1 ok / 0 fail / 0 skipped
+==========================================================

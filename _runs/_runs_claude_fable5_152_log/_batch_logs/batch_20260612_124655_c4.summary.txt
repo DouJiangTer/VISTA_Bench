@@ -1,0 +1,18 @@
+==========================================================
+ Batch run starting at Fri Jun 12 12:46:55 MST 2026
+ Variant: c4
+ Tasks (1):  7_cloud-storage
+ Skip existing: false   Eval after: false
+ Forwarded args: --cli claude --model claude-fable-5
+ Summary log: _runs/_batch_logs/batch_20260612_124655_c4.summary.txt
+==========================================================
+
+----------------------------------------------------------
+ [12:46:55] Task: 7_cloud-storage  (variant=c4)
+  ✓ done in 3058s  (run_dir: _runs/20260612_124655_7_cloud-storage_c4)
+
+==========================================================
+ Batch finished at Fri Jun 12 13:37:53 MST 2026
+ Total time: 50m 58s
+ Results: 1 ok / 0 fail / 0 skipped
+==========================================================

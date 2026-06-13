@@ -1,0 +1,18 @@
+==========================================================
+ Batch run starting at Thu Jun 11 01:36:38 MST 2026
+ Variant: c4
+ Tasks (1):  2_real-estate
+ Skip existing: false   Eval after: false
+ Forwarded args: --cli claude --model claude-fable-5
+ Summary log: _runs/_batch_logs/batch_20260611_013638_c4.summary.txt
+==========================================================
+
+----------------------------------------------------------
+ [01:36:38] Task: 2_real-estate  (variant=c4)
+  ✗ FAILED after 1645s  (see _runs/_batch_logs/20260611_013638_2_real-estate_c4.log)
+
+==========================================================
+ Batch finished at Thu Jun 11 02:04:03 MST 2026
+ Total time: 27m 25s
+ Results: 0 ok / 1 fail / 0 skipped
+==========================================================

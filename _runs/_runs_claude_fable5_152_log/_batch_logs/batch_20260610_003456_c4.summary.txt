@@ -1,0 +1,18 @@
+==========================================================
+ Batch run starting at Wed Jun 10 00:34:56 MST 2026
+ Variant: c4
+ Tasks (1):  5_travel-booking
+ Skip existing: false   Eval after: false
+ Forwarded args: --cli claude --model claude-fable-5
+ Summary log: _runs/_batch_logs/batch_20260610_003456_c4.summary.txt
+==========================================================
+
+----------------------------------------------------------
+ [00:34:56] Task: 5_travel-booking  (variant=c4)
+  ✓ done in 2684s  (run_dir: _runs/20260610_003457_5_travel-booking_c4)
+
+==========================================================
+ Batch finished at Wed Jun 10 01:19:40 MST 2026
+ Total time: 44m 44s
+ Results: 1 ok / 0 fail / 0 skipped
+==========================================================

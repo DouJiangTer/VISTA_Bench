@@ -1,0 +1,19 @@
+==========================================================
+ Batch run starting at Tue Jun  9 20:32:18 MST 2026
+ Variant: c4
+ Tasks (10):  4_forum 1_newsletter 5_travel-booking 8_ecommerce 6_chat 9_project-management 10_streaming_music-streaming 2_real-estate 3_job-board 7_cloud-storage
+ Skip existing: false   Eval after: false
+ Forwarded args: --cli claude --model claude-fable-5
+ Summary log: _runs/_batch_logs/batch_20260609_203218_c4.summary.txt
+==========================================================
+
+----------------------------------------------------------
+ [20:32:18] Task: 4_forum  (variant=c4)
+  ✓ done in 2515s  (run_dir: _runs/20260609_203219_4_forum_c4)
+
+----------------------------------------------------------
+ [21:14:13] Task: 1_newsletter  (variant=c4)
+  ✓ done in 2766s  (run_dir: _runs/20260609_211414_1_newsletter_c4)
+
+----------------------------------------------------------
+ [22:00:19] Task: 5_travel-booking  (variant=c4)
